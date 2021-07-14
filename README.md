@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandeesh11
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning programming languages
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate with myself for a greater purpose
 - 📫 How to reach me https://www.facebook.com/nandeesh.hampiholi/ 
 
