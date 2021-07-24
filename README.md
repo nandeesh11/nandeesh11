@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nandeesh11
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate with myself for a greater purpose
+- 💞️ I’m looking to collaborate with myself for a greater me
 - 📫 How to reach me https://www.facebook.com/nandeesh.hampiholi/ 
 
 <!---
