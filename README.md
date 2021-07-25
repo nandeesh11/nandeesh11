@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandeesh11
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in learning Programming
+- 🌱 I’m currently learning Machine Learning & AI
 - 💞️ I’m looking to collaborate with myself for a greater me
 - 📫 How to reach me https://www.linkedin.com/in/nandeesh-hampiholi-732301218/
 <!---
